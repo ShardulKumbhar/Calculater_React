@@ -1,0 +1,20 @@
+.App {
+ 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+
+body{
+  background-color: black;
+
+}
+.calc-wapper{
+background-color: white;
+width: 400px;
+border-radius: 16px;
+}
+.row{
+  display: flex;
+}
