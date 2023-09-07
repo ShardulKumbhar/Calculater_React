@@ -18,3 +18,15 @@ border-radius: 16px;
 .row{
   display: flex;
 }
+.headerrr{
+  color: rgb(163, 255, 252);
+  padding-right: 6px;
+}
+.myimg{
+  width: 500px;
+  height: 600px;
+}
+
+.gitlink{
+  color: aqua;
+}

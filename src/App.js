@@ -24,8 +24,16 @@ const App = () => {
 
   return (
     <div className="App">
+  <div>
+  <img src="https://avatars.githubusercontent.com/u/98898362?v=4" alt="Logo" />;
+  <h1 className="headerrr"> Devloped By <br/> 
+  Shardul Kumbhar</h1>
+  <div className="gitlink">https://github.com/ShardulKumbhar</div>
+
+  </div>
       <div className="calc-wapper">
         <Input text={text} result={result} />
+       
         <div className="row">
           <Button symbol={"7"} handleClick={addToText} />
           <Button symbol={"8"} handleClick={addToText} />
